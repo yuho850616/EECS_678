@@ -1,0 +1,9 @@
+Background job started: [1]	    6968	delayed_echo hello 2 & 
+Background job started: [2]	    6972	echo world & 
+world 
+Completed: 	[2]	    6972	echo world & 
+dir1
+dir2
+dir3
+lorem_ipsum.txt
+valgrind_expected.txt
